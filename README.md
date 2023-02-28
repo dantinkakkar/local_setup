@@ -1,4 +1,4 @@
-# local_setup
+# Local Setup
 
 Going to gradually add things here.
 
