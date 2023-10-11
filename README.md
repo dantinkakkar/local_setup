@@ -9,3 +9,4 @@ Current contents:
 - [ ] .zshrc
 - [ ] brew installation
 - [ ] sh utils
+- [ ] Autojump
